@@ -1,4 +1,6 @@
 ## Hi there 👋
+i am currenty learning how to use github, complete newbie
+let me know if you have any fun projects for beginners
 
 <!--
 **TheMissingNutt/TheMissingNutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
